@@ -8,3 +8,5 @@ Thanks @ryangmolina use the link to download xml files for left arrow sign https
 Use a left arrow image to turn the car left side similar can be done for right
 
 Use rc_driver.py & rc_driver_helper.py (OR) if you want the car to turn left to left arrow sign use rc_driver3.py & rc_driver_helper3.py
+
+Save the xml files in  "haar_trained_xml/left/cascade.xml" the correct directory after downloading them from above link also don't hesitate to change the threshold values of all objects(stop sign,arrow sign) available.
